@@ -10,6 +10,6 @@ public class MainController {
     @GetMapping("/sbb")
     @ResponseBody
     public String index() {
-        return "index";
+        return "index2";
     }
 }
